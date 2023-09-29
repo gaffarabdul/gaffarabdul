@@ -1,8 +1,3 @@
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/gaffarabdul/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 - 💻 Currently, I'm working as a Full stack Developer with more than 7 years of experience in build apps using Java and React.
 - ✍️ I also enjoy exploring new age state of the art technologies.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaffarabdul/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Gaffar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gaffarabdul/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
